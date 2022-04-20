@@ -1,2 +1,2 @@
-# lane_following_thj
+# lane_following
 ros package include lane_following perspective_transform aruco_detect
