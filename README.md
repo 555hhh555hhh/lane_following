@@ -57,5 +57,3 @@ This is Tang Hongjing's lab4 package.
    source devel/setup.bash
    
    rosrun lane_following lane_following_part3.py
-
- ![image](https://github.com/zhaojieting/linefollowing/blob/main/data/demo.gif)
